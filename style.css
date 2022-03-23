@@ -3,5 +3,24 @@ body {
 }
 section h1 {
     color: black;
+    margin: 15px;
 }
-
+.nombre {
+    font-family: Verdana, Geneva, sans-serif;
+font-size: 15px;
+letter-spacing: 0px;
+word-spacing: 0px;
+color: #7D33FF;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: italic;
+font-variant: normal;
+text-transform: capitalize;
+}
+section {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 15px;
+    padding:30px;
+}
